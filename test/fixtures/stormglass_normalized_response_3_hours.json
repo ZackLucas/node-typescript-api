@@ -1,0 +1,42 @@
+[
+  {
+    "swellDirection": 194.32,
+    "swellHeight": 0.8,
+    "swellPeriod": 6.97,
+    "time": "2020-10-23T00:00:00+00:00",
+    "waveDirection": 198.92,
+    "waveHeight": 1.76,
+    "windDirection": 235.97,
+    "windSpeed": 6.24
+  },
+  {
+    "swellDirection": 194.77,
+    "swellHeight": 1.01,
+    "swellPeriod": 7.03,
+    "time": "2020-10-23T01:00:00+00:00",
+    "waveDirection": 198.35,
+    "waveHeight": 1.75,
+    "windDirection": 240.41,
+    "windSpeed": 5.94
+  },
+  {
+    "swellDirection": 195.23,
+    "swellHeight": 1.21,
+    "swellPeriod": 7.08,
+    "time": "2020-10-23T02:00:00+00:00",
+    "waveDirection": 197.79,
+    "waveHeight": 1.73,
+    "windDirection": 244.86,
+    "windSpeed": 5.65
+  },
+  {
+    "swellDirection": 195.68,
+    "swellHeight": 1.42,
+    "swellPeriod": 7.14,
+    "time": "2020-10-23T03:00:00+00:00",
+    "waveDirection": 197.22,
+    "waveHeight": 1.72,
+    "windDirection": 249.3,
+    "windSpeed": 5.35
+  }
+]
